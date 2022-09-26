@@ -58,10 +58,7 @@ ul li a:hover {
 
 }
 
-#about {
-    transform: translate(20px, 0px);
 
-}
 
 #tech {
     background: var(--bg-black-900);
