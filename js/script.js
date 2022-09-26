@@ -22,17 +22,4 @@
 
        
 
-        function popup(){
-            document.getElementById("A").style.display="none";
-            document.getElementById("A").style.display="block";
-            
-
-        }
-
-        setTimeout(popup,3000)
-
-
-        
-        function dismis(){
-            document.getElementById("A").style.display="none";
-        }
+      
